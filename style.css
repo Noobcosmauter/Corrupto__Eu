@@ -1,19 +1,26 @@
-body{
-  background-color:black;
+/* Cabeçalho */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: ;
+}
+/* Estilos para o cabeçalho */
+.cabecalho {
+    background-color: rgb(128, 103, 103);
+    color: white;
+    padding: 20px;
+    text-align:left;
+}
+
+.titulo1 {
+    font-size: 20px;
+    margin-bottom: 10px;
 
 }
-.cabecalho{
-  padding:40px;
-  background-color: white ;
-  margin-top: 60px ;
-  
+.texto1{
+  font-size: 75%;
 }
-.titulo_corrupcao{
-text-align:center ;
-}
-.conteudo{
-  color: white ;
-}
-.h1{
-
+li{
+  font-size: 75%;
 }
